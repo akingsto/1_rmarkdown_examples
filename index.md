@@ -4,10 +4,17 @@ You can use the [editor on GitHub](https://github.com/akingsto/1_rmarkdown_examp
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
+
 ### Cache la Poudre River
 
 # Cache Le Poudre River
-East of the Continental Divide and resting in the foothills of the Rocky Mountains, the Cache la Poudre is a total of 76.0 miles long, used for recreatation and a range of ecosystem services. A general descrition of the River can be found at https://www.rivers.gov/rivers/cache-la-poudre.php. It is also home to the Cache la Poudre National Heratige Area (https://www.nps.gov/places/cache-la-poudre-river-national-heritage-area.htm) and it was relatively recently designated as a National Heritage Area in 2009. To see the flow conditions of the Cache la Poudre through Fort Collins, Colorado you can access the United States Geological Survery gauge (https://waterdata.usgs.gov/usa/nwis/uv?06752260). 
+East of the Continental Divide and resting in the foothills of the Rocky Mountains, the Cache la Poudre is a total of 76.0 miles long, used for recreatation and a range of ecosystem services. A general descrition of the River can be found at https://www.rivers.gov/rivers/cache-la-poudre.php. It is also home to the *Cache la Poudre National Heratige Area (https://www.nps.gov/places/cache-la-poudre-river-national-heritage-area.htm) and it was relatively recently designated as a National Heritage Area in 2009. **To see the flow conditions of the Cache la Poudre through Fort Collins, Colorado you can access the United States Geological Survery gauge (https://waterdata.usgs.gov/usa/nwis/uv?06752260).**
 
 ``` Markdown  
 
