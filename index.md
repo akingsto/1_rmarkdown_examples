@@ -5,8 +5,8 @@ You can use the [editor on GitHub](https://github.com/akingsto/1_rmarkdown_examp
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ##### Table of Contents  
-[Headers](#Cache la Poudre River)  
-[Emphasis](#Jekyll Themes)
+[Cache la Poudre River](#Cache la Poudre River)  
+[Jekyll Themes](#Jekyll Themes)
 [Support or Contact](#Support or Contact)
 <a name="headers"/>
 ## Headers
